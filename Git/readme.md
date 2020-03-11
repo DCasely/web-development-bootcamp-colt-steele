@@ -19,6 +19,7 @@
 
 - Git Log
 - Git Checkout
+- Git revert --no-commit
 
 # Cloning and Github Intro
 
