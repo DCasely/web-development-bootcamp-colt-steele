@@ -11,6 +11,7 @@
 # Git Basics
 
 - Git init
+- Git status
 - Git add
 - Git commit
 
